@@ -2,6 +2,8 @@
 
 ## 项目简介 / Project Introduction
 ### 构建属于每个人的成长哲学，存在，探索，成为自己。
+### GrowCrescendo 用 AI 把“成长”变成可计算、可解释、可推荐的动态技能宇宙——你的下一颗星，算法已帮你点亮。
+
 
 **Grow Crescendo** 是一款融合哲学思考与工程设计的个人成长体系化记录与规划工具，旨在为用户提供一种全新的成长记录方式。它通过渐进式思想、非线性并行记录、多维度科技树、流式时间轴以及智能分析，为用户搭建了一个动态的个人成长体系。
 
@@ -54,7 +56,11 @@ The creator) infused profound insights into growth and exploration into Grow Cre
 - 提出个性化成长建议与发展预测，优化成长策略。
 
   Dynamically assesses users' growth path health, identifying weaknesses and potential issues. Provides personalized growth suggestions and development forecasts to optimize growth strategies.
+### 5. **可持续扩展集成的成长与评价体系**
 
+- 可插拔：任何组织/个人/机构都能通过 JSON 或 SDK 上传自己的评价体系
+- 可计算：AI 自动把「文本型评价」→「向量型里程碑」→「图谱节点」点亮
+- 可复用：同一套接口既支持学校课程，也支持企业晋升、职业证书、兴趣路径
 ---
 
 ## 项目愿景 / Vision
